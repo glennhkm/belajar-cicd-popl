@@ -10,4 +10,4 @@ RUN go build -o /belajar-cicd-pemula-popl
 
 EXPOSE 3000
 
-CMD ["/belajar-cicd-pemula"]
+CMD ["/belajar-cicd-pemula-popl"]
